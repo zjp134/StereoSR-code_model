@@ -39,6 +39,7 @@ model1: NAFSSR
 ```
 
 model2: SSRDEFNet
+```shell
     data
     ├── train
     │	    └── Flickr1024_patches
@@ -69,8 +70,9 @@ model2: SSRDEFNet
     │       │   │   └── lr1.png
     │       │   ├── ...
     │       │   ├──
-
+```
 model3: SwinIR-LTE
+```shell
     data
     ├── Flickr1024_train
     │   ├── HR
@@ -99,8 +101,9 @@ model3: SwinIR-LTE
     │   │   ├── 0002_L.png
     │   │   ├── 0002_R.png
     │   │   │    ...
-
+```
 model4: RDN_LTE
+```shell
     data
     ├── Flickr1024_train
     │   ├── HR
@@ -129,8 +132,9 @@ model4: RDN_LTE
     │   │   ├── 0002_L.png
     │   │   ├── 0002_R.png
     │   │   │    ...
-
+```
 model5: LIIF
+```shell
     data
     ├── Flickr1024_train
     │   ├── HR
@@ -159,7 +163,7 @@ model5: LIIF
     │   │   ├── 0002_L.png
     │   │   ├── 0002_R.png
     │   │   │    ...
-
+```
 
 
 
