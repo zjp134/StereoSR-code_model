@@ -6,6 +6,7 @@ XXX
 ## 1. Prepare training data 
 XXX
 model1: NAFSSR
+```shell
     datasets
     ├── StereoSR
     │   ├── patches_x4
@@ -35,7 +36,7 @@ model1: NAFSSR
     │   │       │   │   └── lr1.png
     │   │       │   ├── ...
     │   │       │   ├──
-
+```
 
 model2: SSRDEFNet
     data
